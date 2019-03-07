@@ -1,1 +1,26 @@
-theme: jekyll-theme-minimal
+# Site settings
+name: YiArea
+email: firefivy@hotmail.com
+author: Lix Yang
+url: http://www.yiarea.com
+resume_site: http://www.yiarea.com/Resume.io/
+github: https://github.com/YiArea/
+baseurl: "/Index"
+description: Some things
+meta_description: Welcome to my site
+motto: Some thing.
+banner: Keep going.
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: YiArea
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 37b117d4f76ad9f5ce07abb07079f1a6
+
