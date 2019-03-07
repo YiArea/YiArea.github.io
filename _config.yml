@@ -27,3 +27,5 @@ markdown: kramdown
 
 baidu_analysis: 37b117d4f76ad9f5ce07abb07079f1a6
 
+
+theme: jekyll-theme-minimal
