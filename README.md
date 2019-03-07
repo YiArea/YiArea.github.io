@@ -1,5 +1,11 @@
-# LessOrMore
 
+此网站基于LessOrMore作者的Jekyll模板LessOrMore修改，感谢原作者提供的模板
+
+
+===========
+
+以下原作者的Readme信息
+# LessOrMore
 
 致谢
 ====================================
