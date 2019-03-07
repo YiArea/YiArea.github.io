@@ -2,10 +2,14 @@
 name: YiArea
 email: firefivy@hotmail.com
 author: Lix Yang
+
 url: http://www.yiarea.com
-resume_site: http://www.yiarea.com/Resume.io/
-github: https://github.com/YiArea/
 baseurl: "/Index"
+resume_site: http://www.yiarea.com/Resume.io/
+
+github: https://github.com/YiArea/
+github_username: YiArea
+
 description: Some things
 meta_description: Welcome to my site
 motto: Some thing.
@@ -17,7 +21,6 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: YiArea
 
 # Build settings
 markdown: kramdown
